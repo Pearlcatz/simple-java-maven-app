@@ -1,8 +1,5 @@
 pipeline {
     agent any
-    options {
-        skipStagesAfterUnstable()
-    }
     stages {
         stage('Build') {
             steps {
@@ -21,8 +18,9 @@ pipeline {
         }
         stage('Deliver') {
             steps {
-                bat 'jenkins\\scripts\\deliver.bat' // Adjust the path as needed for Windows
+                bat 'jenkins\\scripts\\deliver.bat' // Updated for Windows
             }
         }
     }
 }
+
