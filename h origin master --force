@@ -1,0 +1,71 @@
+[33m52eb917[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'master' of https://github.com/Pearlcatz/simple-java-maven-app
+[33md375d6d[m Create Jenkinsfile
+[33ma1a9e9a[m Resolve merge conflicts in Jenkinsfile
+[33m36f7560[m Add Jenkinsfile
+[33m0e3c355[m Delete Jenkinsfile.txt
+[33m7cea336[m Delete Jenkinsfile
+[33m7d88310[m Create Jenkinsfile.txt
+[33maca2e98[m Fix encoding of Jenkinsfile
+[33mdec9716[m Add Jenkinsfile for pipeline
+[33m6c3babf[m Update Jenkinsfile
+[33me0fa9ef[m Create Jenkinsfile
+[33m2ac4d52[m[33m ([m[1;31mupstream/master[m[33m, [m[1;31mupstream/HEAD[m[33m)[m Merge pull request #1050 from jenkins-docs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.11.4
+[33mbba641c[m Bump org.junit.jupiter:junit-jupiter-api from 5.11.3 to 5.11.4
+[33m4d783e3[m Merge pull request #1006 from jenkins-docs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.11.3
+[33m1da16ec[m Bump org.junit.jupiter:junit-jupiter-api from 5.11.2 to 5.11.3
+[33mdce20d1[m Merge pull request #1003 from Open-Source-Compliance/license_update
+[33mfa39b1b[m MIT License added
+[33mc5d25cc[m Merge pull request #1002 from jenkins-docs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.11.2
+[33m136b561[m Bump org.junit.jupiter:junit-jupiter-api from 5.11.1 to 5.11.2
+[33ma9b3893[m Merge pull request #994 from jenkins-docs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.11.1
+[33m6a0f843[m Bump org.junit.jupiter:junit-jupiter-api from 5.11.0 to 5.11.1
+[33me6ead58[m Merge pull request #962 from jenkins-docs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.11.0
+[33m861bbe1[m Bump org.junit.jupiter:junit-jupiter-api from 5.10.3 to 5.11.0
+[33m3744ae5[m Bump org.junit.jupiter:junit-jupiter-api from 5.10.2 to 5.10.3 (#918)
+[33m7b0b7f7[m Bump org.apache.maven.plugins:maven-jar-plugin from 3.4.1 to 3.4.2 (#914)
+[33mc86b8ef[m Require a Apache Maven version released in last 12 months
+[33m638f5a9[m Require Java 17 or newer
+[33mab84ee2[m Bump org.apache.maven.plugins:maven-enforcer-plugin from 3.4.1 to 3.5.0 (#896)
+[33m288ebcd[m Bump org.apache.maven.plugins:maven-jar-plugin from 3.3.0 to 3.4.1 (#870)
+[33mbb77c10[m Require Java 11 or newer (#861)
+[33mb75a63a[m Bump org.apache.maven.plugins:maven-compiler-plugin (#853)
+[33mc0293ed[m Bump org.junit.jupiter:junit-jupiter-api from 5.10.1 to 5.10.2 (#809)
+[33m64850e7[m Merge pull request #800 from MarkEWaite/simplify-delver-script
+[33mbe83119[m Simplify deliver.sh with Apache Maven quiet and forceStdout
+[33mb72f505[m Bump org.apache.maven.plugins:maven-compiler-plugin (#779)
+[33m72032a3[m Bump org.junit.jupiter:junit-jupiter-api from 5.10.0 to 5.10.1 (#742)
+[33mcab9e78[m Bump org.apache.maven.plugins:maven-enforcer-plugin from 3.4.0 to 3.4.1 (#699)
+[33mead22af[m Bump org.apache.maven.plugins:maven-enforcer-plugin from 3.3.0 to 3.4.0 (#688)
+[33ma4cfc4a[m Bump org.junit.jupiter:junit-jupiter-api from 5.9.3 to 5.10.0 (#660)
+[33mead90aa[m Bump junit-jupiter-api from 5.9.2 to 5.9.3 (#642)
+[33m6e3df7b[m Bump maven-enforcer-plugin from 3.2.1 to 3.3.0 (#641)
+[33m21663bc[m Update dependencies with dependabot
+[33m3763ade[m Merge pull request #559 from NotMyFault/maven-3.9.0
+[33m242bc92[m Merge pull request #560 from NotMyFault/update-docker-image
+[33m8363e9b[m Bump docker image to 3.9.0
+[33m51eadff[m Update maven-compiler-plugin to consume 3.9.0 tweaks
+[33m5f04f89[m scripts are in jenkins dir
+[33m7866331[m Simplify tests
+[33m635d3f8[m Merge pull request #499 from NotMyFault/cleanup
+[33m9adc465[m Mak this work on Java 17 onwards
+[33md429203[m Merge pull request #264 from MarkEWaite/use-latest-compiler-plugin
+[33mcb1f461[m Enforce maven 3.5.4 or newer
+[33mc6002e5[m Use latest maven jar plugin
+[33m683ddf7[m Declare source code is UTF-8 encoded
+[33mf590cc4[m Use maven compiler 3.8.1 to resolve compiler complaints
+[33mf9b7b32[m Merge pull request #234 from jenkins-docs/dependabot/maven/junit-junit-4.13.1
+[33m5a73660[m Bump junit from 4.11 to 4.13.1
+[33m0d85b7e[m Amend README.md
+[33m793c42e[m Refactor App and made AppTest properly test App.
+[33mb132e29[m Update README.md with amended tutorial name and URL
+[33m6408509[m Update README.md
+[33me60c68c[m Update README.md
+[33ma24ff53[m Add 'post' section with 'junit' steps.
+[33m2dc5ed5[m Add Jenkinsfile example + wrap wording in README.md
+[33m77f2f02[m Add README.md content
+[33mef91e25[m Make deliver.sh executable.
+[33m15d1635[m Add 'deliver.sh' within /jenkins/scripts directory.
+[33m8d2a8ba[m Add build/plugins section to pom.xml to make resulting jar file executable.
+[33m8c1d8e3[m Add .DS_Store to .gitignore
+[33m78065f1[m Add simple Maven archetype project.
+[33md84fc5a[m Initial commit
